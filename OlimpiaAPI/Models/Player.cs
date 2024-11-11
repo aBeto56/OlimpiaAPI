@@ -16,4 +16,5 @@ public partial class Player
     public int Height { get; set; }
 
     public DateTime CreatedTime { get; set; }
+    public object Data { get; internal set; }
 }

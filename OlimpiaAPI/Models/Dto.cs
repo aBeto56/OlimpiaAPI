@@ -6,5 +6,7 @@
 
     public record CreateDatDto(string? Country, string? County, string? Description, Guid? PlayerId);
 
-    public record UpdateDatDto(string? Country, string? County, string? Description, Guid? PlayerId);
+    public record UpdateDatDto(string? Country, string? County, string? Description);
+
+    public record LPlayerData(string Name, string Country, string? County);
 }

@@ -29,7 +29,6 @@ C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\Microsoft.Exte
 C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\MySql.Data.dll
-C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\MySql.Data.EntityFrameworkCore.dll
 C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Tanulo\GitWorkDir\OlimpiaAPI\OlimpiaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
